@@ -1,0 +1,18 @@
+---
+title: "hw1"
+author: "Hunter Rose, github hrose33"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### **Data Analyst Position**
+![](what-is-data-science.jpg)
+  
+A job that I found that would be directly related to data science would be a *data analyst*. The job I found required relatively the same skills as an ordinary data science job. These requirements include proficiency in Python and R. Along with experience in Tableau, PowerBI, and MySQL. One of the differences would be more experience in analytical skills such as determining relationships and insights to help the business. The link for the job is here: <https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=11159&clientkey=553D66341397BE00F534D53443A30BDD>. 
+
+```{r}
+version
+```
