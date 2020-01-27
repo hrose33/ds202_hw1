@@ -1,0 +1,8 @@
+Partner Name: Tanner Boyle
+github: https://github.com/tannerdboyle/
+
+Partner uploaded homework with commit ID# 00a34d30625caf1b0b121befa901b68028bb2dc6
+
+Was not able to knit without error -- there was a local jpeg file on his computer that he didn't push to the repo. 
+
+Tip: Make sure all files used are non-local (have a URL and accessable in browser) or are included in the repo. The error difficulty is fairly small since it is easy to fix.
